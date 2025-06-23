@@ -69,3 +69,4 @@ if uploaded_file is not None:
             st.write("⚖️ This food is high in calories; consider a smaller portion or a lighter option.")
         else:
             st.success("✅ This food is generally okay for your condition.")
+streamlit run app.py
