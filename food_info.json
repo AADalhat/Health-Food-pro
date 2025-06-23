@@ -1,0 +1,181 @@
+{
+    "Tuwo Shinkafa": {
+        "ingredients": [
+            "rice flour",
+            "water",
+            "salt",
+            "okra soup",
+            "meat"
+        ],
+        "calories": 350,
+        "risks": {
+            "diabetes": "high",
+            "hypertension": "medium",
+            "weight_loss": "medium"
+        },
+        "advice": "Use millet flour instead of white rice flour, reduce meat fat.",
+        "substitute": "Tuwo masara with ugu soup",
+        "diet_type": "non-vegan"
+    },
+    "Yam Porridge": {
+        "ingredients": [
+            "yam",
+            "palm oil",
+            "pepper",
+            "onion",
+            "leafy greens"
+        ],
+        "calories": 400,
+        "risks": {
+            "diabetes": "medium",
+            "hypertension": "high",
+            "weight_loss": "high"
+        },
+        "advice": "Use less palm oil, add more greens.",
+        "substitute": "Boiled yam with vegetable sauce",
+        "diet_type": "vegan"
+    },
+    "Jollof Rice": {
+        "ingredients": [
+            "white rice",
+            "tomato",
+            "pepper",
+            "oil",
+            "salt"
+        ],
+        "calories": 420,
+        "risks": {
+            "diabetes": "high",
+            "hypertension": "high",
+            "weight_loss": "high"
+        },
+        "advice": "Use brown rice, reduce oil and salt.",
+        "substitute": "Ofada rice with vegetable stew",
+        "diet_type": "non-vegan"
+    },
+    "Moi Moi": {
+        "ingredients": [
+            "beans",
+            "oil",
+            "pepper",
+            "onion",
+            "egg"
+        ],
+        "calories": 280,
+        "risks": {
+            "diabetes": "low",
+            "hypertension": "medium",
+            "weight_loss": "medium"
+        },
+        "advice": "Steam instead of baking with oil, reduce egg if needed.",
+        "substitute": "Boiled beans with vegetables",
+        "diet_type": "vegan"
+    },
+    "Suya": {
+        "ingredients": [
+            "beef",
+            "oil",
+            "pepper",
+            "spices",
+            "salt"
+        ],
+        "calories": 450,
+        "risks": {
+            "diabetes": "medium",
+            "hypertension": "high",
+            "weight_loss": "high"
+        },
+        "advice": "Limit portion size, avoid adding extra salt.",
+        "substitute": "Grilled chicken with pepper sauce",
+        "diet_type": "non-vegan"
+    },
+    "Egusi Soup": {
+        "ingredients": [
+            "egusi",
+            "palm oil",
+            "leafy greens",
+            "meat",
+            "seasoning"
+        ],
+        "calories": 500,
+        "risks": {
+            "diabetes": "medium",
+            "hypertension": "high",
+            "weight_loss": "high"
+        },
+        "advice": "Use less palm oil, add more vegetables, and lean meat.",
+        "substitute": "Vegetable soup with crayfish",
+        "diet_type": "non-vegan"
+    },
+    "Akara": {
+        "ingredients": [
+            "beans",
+            "pepper",
+            "onion",
+            "oil",
+            "salt"
+        ],
+        "calories": 330,
+        "risks": {
+            "diabetes": "medium",
+            "hypertension": "medium",
+            "weight_loss": "high"
+        },
+        "advice": "Fry with less oil or bake, avoid excess salt.",
+        "substitute": "Baked bean cakes",
+        "diet_type": "vegan"
+    },
+    "Pap (Akamu)": {
+        "ingredients": [
+            "corn",
+            "water",
+            "milk",
+            "sugar"
+        ],
+        "calories": 250,
+        "risks": {
+            "diabetes": "high",
+            "hypertension": "low",
+            "weight_loss": "low"
+        },
+        "advice": "Reduce sugar and use skimmed milk.",
+        "substitute": "Unsweetened pap with soya milk",
+        "diet_type": "vegan"
+    },
+    "Eba and Egusi": {
+        "ingredients": [
+            "garri",
+            "egusi",
+            "palm oil",
+            "meat",
+            "vegetables"
+        ],
+        "calories": 600,
+        "risks": {
+            "diabetes": "high",
+            "hypertension": "high",
+            "weight_loss": "high"
+        },
+        "advice": "Reduce portion, use more vegetables, and less oil.",
+        "substitute": "Wheat swallow with okra soup",
+        "diet_type": "non-vegan"
+    },
+    "Okra Soup": {
+        "ingredients": [
+            "okra",
+            "oil",
+            "pepper",
+            "leafy greens",
+            "meat"
+        ],
+        "calories": 300,
+        "risks": {
+            "diabetes": "low",
+            "hypertension": "medium",
+            "weight_loss": "low"
+        },
+        "advice": "Use little oil and lean meat, add ugu.",
+        "substitute": "Steamed okra with fish",
+        "diet_type": "non-vegan"
+    }
+}
