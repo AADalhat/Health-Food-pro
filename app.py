@@ -9,7 +9,7 @@ import json
 # Load model
 @st.cache_resource
 def load_model():
-    model = tf.keras.models.load_model(mobilenet_model.h5.keras)
+    model = tf.keras.models.load_model("mobilenet_model.h5.keras")
     return model
 
 model = load_model()
@@ -17,7 +17,7 @@ model = load_model()
 # Load food metadata
 @st.cache_data
 def load_metadata():
-    with open(food_info.json, "r") as f:
+    with open("food_info.json", "r") as f:
         return json.load(f)
 
 food_info = load_metadata()
