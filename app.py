@@ -1,5 +1,3 @@
-pip install streamlit tensorflow pillow
-
 import streamlit as st
 import tensorflow as tf
 import numpy as np
@@ -9,7 +7,7 @@ import json
 # Load model
 @st.cache_resource
 def load_model():
-    model = tf.keras.models.load_model("mobilenet_model.h5.keras")
+    model = tf.keras.models.load_model("mobilenet_model.h5")
     return model
 
 model = load_model()
