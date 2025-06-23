@@ -1,3 +1,4 @@
+pip install streamlit tensorflow pillow
 
 import streamlit as st
 import tensorflow as tf
@@ -8,8 +9,7 @@ import json
 # Load model
 @st.cache_resource
 def load_model():
-    model_path = "/content/drive/My Drive/FoodHealth pro/mobilenet_model.h5.keras"
-    model = tf.keras.models.load_model(model_path)
+    model = tf.keras.models.load_model(mobilenet_model.h5.keras)
     return model
 
 model = load_model()
@@ -17,8 +17,7 @@ model = load_model()
 # Load food metadata
 @st.cache_data
 def load_metadata():
-    metadata_path = "/content/drive/My Drive/FoodHealth pro/food_info.json"
-    with open(metadata_path, "r") as f:
+    with open(food_info.json, "r") as f:
         return json.load(f)
 
 food_info = load_metadata()
