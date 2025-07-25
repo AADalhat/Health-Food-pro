@@ -1,7 +1,6 @@
 
 # 🍽️ FoodHealth Pro — AI-Powered Food Classification & Health Advisory System
 
-![FoodHealth Pro Logo]("C:\Users\Abdullahi Abdussalam\Pictures\Screenshots\Screenshot 2025-07-25 100210.png")
 
 FoodHealth Pro+ is an intelligent food recognition and personalized dietary advisory system tailored for local African meals. It leverages computer vision and nutrition science to support individuals with health conditions like **diabetes, hypertension, malnutrition, weight management, pregnancy**, and more.
 
